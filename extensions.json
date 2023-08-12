@@ -1,0 +1,10 @@
+{
+    "extensions": {
+        "Placeholder": {
+            "url": "/extensions/Placeholder.js",
+            "image": "",
+            "credits": "This extension was created by #.",
+            "tags": []
+        }
+    }
+}
