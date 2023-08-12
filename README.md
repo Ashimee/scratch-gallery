@@ -1,5 +1,5 @@
 # scratch-gallery
-This gallery is going to be made in scratch.
+This gallery is going to be made in TurboWarp.
 
 To add an extension to [docs/CONTRIBUTION.md](https://github.com/SurvExe1Pc/scratch-gallery/tree/main/docs/CONTRIBUTION.md)
 
