@@ -1,6 +1,7 @@
 # scratch-gallery
 This gallery is going to be made in scratch.
 
-All extensions on here are licensed under the MIT license, so do not ask to add any that are not MIT.
+To add an extension to Docs/CONTRIBUTING.md
 
-⚠️⚠️ THIS IS A WIP ⚠️⚠️
+All extensions on here are licensed under the MIT license, so do not ask to add any that are not MIT.
+All images in the "images" folder are licensed under the GNU General Public License version 3. See docs/IMAGES.md for attribution information for each image.
