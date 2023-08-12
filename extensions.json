@@ -8,6 +8,15 @@
             "filename on download": "Placeholder",
             "title": "Placeholder",
             "hide from gallery": false
+        },
+        "Placeholder2": {
+            "url": "/extensions/Placeholder.js",
+            "image": "",
+            "credits": "This extension was created by #.",
+            "tags": [],
+            "filename on download": "Placeholder",
+            "title": "Placeholder 2",
+            "hide from gallery": false
         }
     }
 }
