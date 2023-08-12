@@ -5,7 +5,8 @@
             "image": "",
             "credits": "This extension was created by #.",
             "tags": [],
-            "file name on download": "Placeholder",
+            "filename on download": "Placeholder",
+            "title": "Placeholder",
             "hide from gallery": false
         }
     }
