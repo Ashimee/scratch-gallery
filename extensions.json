@@ -4,7 +4,9 @@
             "url": "/extensions/Placeholder.js",
             "image": "",
             "credits": "This extension was created by #.",
-            "tags": []
+            "tags": [],
+            "file name on download": "Placeholder",
+            "hide from gallery": false
         }
     }
 }
