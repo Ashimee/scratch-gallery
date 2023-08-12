@@ -1,57 +1,13 @@
 {
     "extensions": {
         "Placeholder": {
-            "url": "/extensions/Placeholder.js",
-            "image": "",
-            "credits": "This extension was created by #.",
-            "tags": [],
-            "filename on download": "Placeholder",
             "title": "Placeholder",
-            "hide from gallery": false
-        },
-        "Placeholder2": {
+            "description": "A placeholder extension.",
+            "credits": "This extension was created by #.",
             "url": "/extensions/Placeholder.js",
             "image": "",
-            "credits": "This extension was created by #.",
             "tags": [],
             "filename on download": "Placeholder",
-            "title": "Placeholder 2",
-            "hide from gallery": false
-        },
-        "Placeholder3": {
-            "url": "/extensions/Placeholder.js",
-            "image": "",
-            "credits": "This extension was created by #.",
-            "tags": [],
-            "filename on download": "Placeholder",
-            "title": "Placeholder 3",
-            "hide from gallery": false
-        },
-        "Placeholder4": {
-            "url": "/extensions/Placeholder.js",
-            "image": "",
-            "credits": "This extension was created by #.",
-            "tags": [],
-            "filename on download": "Placeholder",
-            "title": "Placeholder 4",
-            "hide from gallery": false
-        },
-        "Placeholder5": {
-            "url": "/extensions/Placeholder.js",
-            "image": "",
-            "credits": "This extension was created by #.",
-            "tags": [],
-            "filename on download": "Placeholder",
-            "title": "Placeholder 5",
-            "hide from gallery": false
-        },
-        "Placeholder6": {
-            "url": "/extensions/Placeholder.js",
-            "image": "",
-            "credits": "This extension was created by #.",
-            "tags": [],
-            "filename on download": "Placeholder",
-            "title": "Placeholder 6",
             "hide from gallery": false
         }
     }
